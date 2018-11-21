@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title: Welcome to the Octocat’s homepage!
+discription: feel free to drawing on it! ..how?
 
 You can use the [editor on GitHub](https://github.com/luoyadan518/luoyadan518.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
